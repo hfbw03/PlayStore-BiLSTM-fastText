@@ -1,3 +1,3 @@
-A deep learning model built using PyTorch and TorchText to classify sentiments of tweets using a subset of the sentiment140 dataset.
+A deep learning model built using PyTorch and TorchText to classify sentiments of Google Play Store app reviews.
 
-The model uses pre-trained GloVe embeddings to build the vocabulary and the encoder uses two layers of biLSTM and dropout for regularization.
+The model uses pre-trained fastText embeddings to build the vocabulary.
